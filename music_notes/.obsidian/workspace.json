@@ -1,0 +1,179 @@
+{
+  "main": {
+    "id": "142c77ba8a904b60",
+    "type": "split",
+    "children": [
+      {
+        "id": "8eaa07e8a726cc17",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e93f7f881468c0a8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Глубже всех морей и океанов.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "9def7b9ed3238ee6",
+    "type": "split",
+    "children": [
+      {
+        "id": "b099ee562271ebd2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "836a35f930ab876d",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "07a21c6b97bdd7b7",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "9fbcfbaeb86ba7b0",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "22a23cfc493b00c1",
+    "type": "split",
+    "children": [
+      {
+        "id": "da5ca1f3c3f5bdc6",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b75398629874ec3b",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Глубже всех морей и океанов.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "188b7cf769de10eb",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Глубже всех морей и океанов.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "17eda61d41b6efec",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "dfb08da7c90fa376",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Глубже всех морей и океанов.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "e93f7f881468c0a8",
+  "lastOpenFiles": [
+    "Там где Один пострадал.md",
+    "Даниил Александрович Ясько.md",
+    "Бог всего творения, Свет чудесный Твой.md",
+    "Глубже всех морей и океанов.md",
+    "Бог мой Ты скала моя.md",
+    "Вечный Бог, Творец небес.md",
+    "Как дышит в семени цветок.md",
+    "Душу мою к Тебе возношу.md",
+    "Братья, все ликуйте славный день настал!.md",
+    "Господня вся земля.md",
+    "Встает заря.md",
+    "Всего себя, всю жизнь мою.md",
+    "Воспрянь моя душа.md",
+    "Великий Бог! Когда на мир смотрю я.md",
+    "Великий Бог, Царь вечности.md",
+    "В сиянии Царя.md",
+    "Благодатная скала.md",
+    "Ангелы в небе Господа славят.md",
+    "Как глубока любовь Отца.md",
+    "Как велик наш Господь!.md",
+    "Дружба верная.md",
+    "Господь - моё спасение.md",
+    "Господь – Скала, мой Искупитель.md",
+    "Дивный Спаситель.md",
+    "Церковь Тело Христово.md",
+    "Кто моря все горстью исчерпал?.md",
+    "Untitled.canvas",
+    "Даниил Александрович Ясько"
+  ]
+}
