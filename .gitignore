@@ -4,3 +4,4 @@
 *.db
 /docs
 .ruff_cache
+**/__pycache__
