@@ -1,9 +1,7 @@
 import os
 
 AUTHOR = "Александр Рахмаев"
-SITENAME = " "
-
-# SITENAME = "Экспозиционное пение"
+SITENAME = "Экспозиционное пение"
 SITEURL = os.getenv("SITEURL")
 OUTPUT_PATH = "docs"
 PATH = "content"

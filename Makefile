@@ -77,6 +77,6 @@ lint:
 	poetry run ruff content_generator pelicanconf.py tasks.py publishconf.py publishconf.py
 
 tests:
-	poetry run pytest content_generator/tests
+	poetry run pytest -vv content_generator/tests
 
 .PHONY: help clean devserver publish github local_content, dfg

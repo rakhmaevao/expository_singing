@@ -2,26 +2,27 @@ Title: Господня вся земля
 Date: 2024-01-01
 Categories: Гимны
 
+Оригинальное название: This Is My Father's World
 
-title: Господня вся земля
-origianl_title: This Is My Father's World
-poet: Maltbie Davenport Babcock
-translater: "[[Даниил Александрович Ясько]]"
-composer: Franklin L. Sheppard
-song_of_rebirth: 2507
-published: 1901
+Поэт: Maltbie Davenport Babcock
 
+Переводчик: [Даниил Александрович Ясько]({filename}persons/dd.md)
 
-https://hymnary.org/text/this_is_my_fathers_world_and_to_my
+Композитор: Franklin L. Sheppard
 
-https://en.wikipedia.org/wiki/This_Is_My_Father%27s_World
+Песнь возрождения: 2507
+
+Дата написания: 1901 г.
 
 ## История написания
 
-Написал служитель Бэбкок. Еще при жизни он гулял по окрестностям и любил одно место.  Он умер в 1901 году в возрасте 42 лет. Вскоре после его смерти жена опубликовала сборник сочинений Бэбкока, который содержал стихотворение «Мир моего отца».
-
-Он увидел радость и покой.
+Некоторая история
 
 ## Интересные факты
 
 Музыка была взята за основу в теме Шира в Властелине колец.
+
+## Ссылки
+
+- [Hymnary.org](https://hymnary.org/text/this_is_my_fathers_world_and_to_my) 
+- [Wikipedia](https://en.wikipedia.org/wiki/This_Is_My_Father%27s_World)
