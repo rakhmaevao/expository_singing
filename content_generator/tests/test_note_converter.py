@@ -1,4 +1,4 @@
-from content_generator.src.article_converter import ArticleConverter
+from content_generator.src.note_converter import NoteConverter
 
 _INPUT_TEST_MD_TEXT = """
 ---
@@ -63,6 +63,6 @@ Categories: Гимны
 
 
 def test_base_converting():
-    converter = ArticleConverter()
+    converter = NoteConverter()
     print(converter.convert(_INPUT_TEST_MD_TEXT))
     assert converter.convert(_INPUT_TEST_MD_TEXT) == _EXPECTED_MD_TEXT
