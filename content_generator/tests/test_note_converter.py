@@ -3,9 +3,9 @@ from content_generator.src.note_converter import NoteConverter
 _INPUT_TEST_MD_TEXT = """
 ---
 title: Господня вся земля
-origianl_title: This Is My Father's World
+original_title: This Is My Father's World
 poet: Maltbie Davenport Babcock
-translater: "[[Даниил Александрович Ясько]]"
+translator: [[Даниил Александрович Ясько]]
 composer: Franklin L. Sheppard
 song_of_rebirth: 2507
 published: 1901

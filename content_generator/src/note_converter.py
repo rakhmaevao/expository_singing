@@ -34,8 +34,8 @@ class NoteConverter:
                 continue
             key = raw_properties_items[0]
             value = raw_properties_items[1]
-            if value.startswith('"[[') and value.endswith(']]"'):
-                value = value[3:-3]
+            if value.startswith('[[') and value.endswith(']]'):
+                value = value[2:-2]
             properties[key] = value
         return properties
     
@@ -51,9 +51,9 @@ class NoteConverter:
             "Categories: Гимны\n\n"            
         )
         mapping = {
-            "origianl_title": "Оригинальное название",
+            "original_title": "Оригинальное название",
             "poet": "Поэт",
-            "translater": "Переводчик",
+            "translator": "Переводчик",
             "composer": "Композитор",
             "song_of_rebirth": "Песнь возрождения",
             "published": "Дата написания",
