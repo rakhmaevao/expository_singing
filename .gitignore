@@ -1,8 +1,0 @@
-/.vscode
-/.venv
-/__pycache__
-*.db
-/docs
-.ruff_cache
-**/__pycache__
-/content/Гимны
