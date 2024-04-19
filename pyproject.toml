@@ -12,6 +12,7 @@ markdown = "^3.6"
 pytest-clarity = "^1.0.1"
 transliterate = "^1.10.2"
 loguru = "^0.7.2"
+ghp-import = "^2.1.0"
 
 
 [tool.poetry.group.dev.dependencies]
