@@ -9,7 +9,7 @@ CONFFILE=$(BASEDIR)/pelicanconf.py
 PUBLISHCONF=$(BASEDIR)/publishconf.py
 
 LOCAL_SITEURL=http://127.0.0.1:8000
-GITHUB_PAGES_SITEURL=https://rakhmaevao.github.io/expositional_singing
+GITHUB_PAGES_SITEURL=https://rakhmaevao.github.io/expository_singing
 
 GITHUB_PAGES_BRANCH=gh-pages
 
