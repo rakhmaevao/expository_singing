@@ -17,7 +17,7 @@ save_as: index.html
 # Контакты
 
 Рахмаев Александр г. Йошкар-Ола ц. Благодать ([@rakhmaevao](https://t.me/rakhmaevao)).
-"""
+"""  # noqa: E501
 
 
 def generate_home(hymn_num: int) -> str:
