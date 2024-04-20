@@ -22,4 +22,4 @@ def test_all_notes_is_ready():
         paths = ""
         for note_path in not_ready_notes:
             paths += f"\n{note_path}"
-        warnings.warn(f"Not ready notes {paths}")  # noqa: B028
+        warnings.warn(f"Not ready {len(not_ready_notes)} notes: \n{paths}")  # noqa: B028
