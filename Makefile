@@ -68,9 +68,10 @@ py_format:
 	poetry run ruff format content_generator pelicanconf.py tasks.py publishconf.py publishconf.py
 	poetry run ruff --fix content_generator pelicanconf.py tasks.py publishconf.py publishconf.py
 
-all_format: py_format
+format: py_format
 	npx prettier --write README.md
 	npx prettier --write content
+	npx prettier --write music_notes
 
 lint:
 	@echo "Линтинг"
