@@ -1,7 +1,6 @@
 from content_generator.src.note_converter import NoteConverter
 
-_INPUT_TEST_MD_TEXT = """
----
+_INPUT_TEST_MD_TEXT = """---
 title: Господня вся земля
 original_title: This Is My Father's World
 poet: Maltbie Davenport Babcock
@@ -64,5 +63,6 @@ Categories: Гимны
 
 def test_base_converting():
     converter = NoteConverter()
-    print(converter.convert(_INPUT_TEST_MD_TEXT))
-    assert converter.convert(_INPUT_TEST_MD_TEXT) == _EXPECTED_MD_TEXT
+    note = converter.convert(_INPUT_TEST_MD_TEXT)
+    assert note.title == "Господня вся земля"
+    assert note.content == _EXPECTED_MD_TEXT

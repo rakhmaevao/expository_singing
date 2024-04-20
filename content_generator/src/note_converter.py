@@ -1,10 +1,13 @@
 import re
+
 from loguru import logger
+
 from .note import Note
 
 
 class NotConversableNoteError(Exception):
     pass
+
 
 class NoteConverter:
     _NEED_LEN_RAW_PROP = 2
@@ -13,7 +16,7 @@ class NoteConverter:
         pass
 
     def convert(self, md_text: str) -> Note:
-        if not md_text.startswith("---"): 
+        if not md_text.startswith("---"):
             raise NotConversableNoteError
         body = md_text.split("---")[2]
         tags = self.__get_tags(body)
@@ -34,11 +37,11 @@ class NoteConverter:
                 continue
             key = raw_properties_items[0]
             value = raw_properties_items[1]
-            if value.startswith('[[') and value.endswith(']]'):
+            if value.startswith("[[") and value.endswith("]]"):
                 value = value[2:-2]
             properties[key] = value
         return properties
-    
+
     def __get_tags(self, body: str) -> list[str]:
         return re.findall(r"#\w+", body)
 
@@ -48,7 +51,7 @@ class NoteConverter:
         hat = (
             f'Title: {properties["title"]}\n'
             "Date: 1993-06-12\n"
-            "Categories: Гимны\n\n"            
+            "Categories: Гимны\n\n"
         )
         mapping = {
             "original_title": "Оригинальное название",
