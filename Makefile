@@ -69,8 +69,7 @@ py_format:
 
 format: py_format
 	npx prettier --write README.md
-	# npx prettier --write content/pages
-	# npx prettier --write music_notes
+	npx prettier --write music_notes
 
 lint:
 	@echo "Линтинг"

@@ -6,9 +6,9 @@
 
 https://hymnary.org/
 
-https://www.hymnal.net/en/hymn/hr/23
+https://www.hymnal.net/en/home
 
 [RBC music bank](https://drive.google.com/drive/folders/1peZeO-YxxWa0oOcP868L303Hn8Uy6UaX)
 
 
-Джон Джулиан, Словарь гимнологии (1907)
+Джон Джулиан. Словарь гимнологии

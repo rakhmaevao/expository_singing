@@ -11,10 +11,11 @@ class BadPathError(Exception):
 
 
 class NotesConverter:
-    def convert(self, src: Path, dst: Path) -> None:
+    def convert(self, src: Path, dst: Path) -> int:
         if not src.is_dir() or not dst.is_dir():
             raise BadPathError
 
+        hymn_number = 0
         for note_path in src.iterdir():
             if not note_path.is_file():
                 continue
@@ -29,3 +30,5 @@ class NotesConverter:
             new_filename = slugify(note.title) + ".md"
             with (dst / new_filename).open("w", encoding="utf-8") as f:
                 f.write(note.content)
+            hymn_number += 1
+        return hymn_number
