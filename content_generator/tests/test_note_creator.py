@@ -1,4 +1,4 @@
-from content_generator.src.note_converter import NoteConverter
+from content_generator.src.note_creator import NoteCreator
 
 _INPUT_TEST_MD_TEXT = """---
 title: Господня вся земля
@@ -62,7 +62,7 @@ Categories: Гимны
 
 
 def test_base_converting():
-    converter = NoteConverter()
-    note = converter.convert(_INPUT_TEST_MD_TEXT)
+    converter = NoteCreator()
+    note = converter.create(_INPUT_TEST_MD_TEXT)
     assert note.title == "Господня вся земля"
     assert note.content == _EXPECTED_MD_TEXT

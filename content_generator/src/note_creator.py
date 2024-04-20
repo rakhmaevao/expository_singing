@@ -9,13 +9,13 @@ class NotConversableNoteError(Exception):
     pass
 
 
-class NoteConverter:
+class NoteCreator:
     _NEED_LEN_RAW_PROP = 2
 
     def __init__(self):
         pass
 
-    def convert(self, md_text: str) -> Note:
+    def create(self, md_text: str) -> Note:
         if not md_text.startswith("---"):
             raise NotConversableNoteError
         body = md_text.split("---")[2]
@@ -61,7 +61,7 @@ class NoteConverter:
             "song_of_rebirth": "Песнь возрождения",
             "published": "Дата написания",
         }
-        for property in properties:
-            if property in mapping:
-                hat += f"{mapping[property]}: {properties[property]}\n\n"
+        for prop in properties:
+            if prop in mapping:
+                hat += f"{mapping[prop]}: {properties[prop]}\n\n"
         return hat
