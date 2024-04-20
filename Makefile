@@ -37,7 +37,6 @@ help:
 	@echo '                                                                          '
 	@echo 'Usage:                                                                    '
 	@echo '   make clean                          remove the generated files         '
-	@echo '   make publish                        generate using production settings '
 	@echo '   make devserver                      serve and regenerate together      '
 	@echo '   make github                         upload the web site via gh-pages   '
 	@echo '   make local_content                  generate content for local site    '
@@ -70,8 +69,8 @@ py_format:
 
 format: py_format
 	npx prettier --write README.md
-	npx prettier --write content
-	npx prettier --write music_notes
+	# npx prettier --write content/pages
+	# npx prettier --write music_notes
 
 lint:
 	@echo "Линтинг"
@@ -79,5 +78,3 @@ lint:
 
 tests:
 	poetry run pytest -vv content_generator/tests
-
-.PHONY: help clean devserver publish github local_content, dfg
