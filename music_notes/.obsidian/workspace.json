@@ -13,22 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Твёрдо я верю_ мой Иисус!.md",
+                "file": "Придите все к воскресшему.md",
                 "mode": "source",
-                "source": false
-              }
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "Придите все к воскресшему"
             }
           },
           {
-            "id": "a6339e2033145c41",
+            "id": "ee717a994c4d493c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Станислав Маген.md",
+                "file": "Построил на крови Христа.md",
                 "mode": "source",
-                "source": false
-              }
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "Построил на крови Христа"
             }
           }
         ]
@@ -51,7 +55,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
             }
           },
           {
@@ -60,13 +66,15 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Твердо я верю",
+                "query": "Придите",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-search",
+              "title": "Search"
             }
           },
           {
@@ -74,7 +82,9 @@
             "type": "leaf",
             "state": {
               "type": "bookmarks",
-              "state": {}
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
             }
           }
         ],
@@ -98,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Твёрдо я верю_ мой Иисус!.md",
+                "file": "Придите все к воскресшему.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,7 +116,9 @@
                 "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Придите все к воскресшему"
             }
           },
           {
@@ -115,10 +127,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Твёрдо я верю_ мой Иисус!.md",
+                "file": "Славь, душа, Господа.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Славь, душа, Господа"
             }
           },
           {
@@ -129,7 +143,9 @@
               "state": {
                 "sortOrder": "frequency",
                 "useHierarchy": true
-              }
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
             }
           },
           {
@@ -138,8 +154,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Твёрдо я верю_ мой Иисус!.md"
-              }
+                "file": "Славь, душа, Господа.md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Славь, душа, Господа"
             }
           }
         ]
@@ -160,32 +178,32 @@
   },
   "active": "e93f7f881468c0a8",
   "lastOpenFiles": [
-    "Течет ли жизнь мирно, подобно реке.md",
-    "Братья, все ликуйте славный день настал!.md",
-    "Источник жизни Бог открыл.md",
-    "Станислав Маген.md",
-    "Вечный Бог, Творец небес.md",
-    "Всего себя, всю жизнь мою.md",
-    "Что за любовь не припомнит грехов?.md",
-    "Творения Бога и Царя.md",
-    "Хвалиться буду Тобой, Спаситель.md",
-    "Ангелы в небе Господа славят.md",
-    "Благо есть.md",
-    "Благодатная скала.md",
-    "Бог всего творения, Свет чудесный Твой.md",
-    "Бог мой Ты скала моя.md",
-    "Великий Бог, Царь вечности.md",
-    "Вести ангельской.md",
-    "О Господь, мой крест беру я.md",
-    "Построил на крови Христа.md",
+    "Господь - Скала, мой Искупитель.md",
+    "Глубока подобно морю copy.md",
+    "Я в мрачной тьме.md",
     "Придите и прославьте все.md",
-    "Спаситель, к Тебе в покой прихожу.md",
+    "Воспрянь моя душа.md",
     "Там где Один пострадал.md",
-    "Придите все к воскресшему.md",
+    "Дивный Спаситель.md",
+    "Братья, все ликуйте славный день настал!.md",
+    "Ангелов к нам Весть дошла.md",
+    "Вечный Бог, Творец небес copy.md",
+    "На Нём.md",
+    "Вечный Бог, Творец небес.md",
+    "Господня вся земля.md",
+    "Построил на крови Христа.md",
+    "Великий Бог! Когда на мир смотрю я.md",
+    "README.md",
+    "Глубока подобно морю.md",
+    "Всего себя, всю жизнь мою.md",
+    "Вести ангельской.md",
+    "В Христе одном.md",
+    "Великий Бог, Царь вечности.md",
     "О, как блажен, как счастлив я!.md",
-    "Прихожу к Тебе я.md",
-    "Твёрдо я верю_ мой Иисус!.md",
-    "Глубже всех морей и океанов.md",
+    "Иисус, о Тебе я пою.md",
+    "Станислав Маген.md",
+    "Славь, душа, Господа 1.md",
+    "Спасенье мое, надежда моя.md",
     "Untitled.canvas",
     "Даниил Александрович Ясько"
   ]

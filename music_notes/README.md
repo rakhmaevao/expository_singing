@@ -4,10 +4,12 @@
 
 Для людей заводим отдельную карточку. Для них пишем тег #person
 
-https://hymnary.org/
+Образцовая карточка [[Господня вся земля]]
 
-https://www.hymnal.net/en/home
+Источники
 
-[RBC music bank](https://drive.google.com/drive/folders/1peZeO-YxxWa0oOcP868L303Hn8Uy6UaX)
-
-Джон Джулиан. Словарь гимнологии
+- https://hymnary.org/
+- https://www.hymnal.net/en/home
+- [RBC music bank](https://drive.google.com/drive/folders/1peZeO-YxxWa0oOcP868L303Hn8Uy6UaX)
+- Джон Джулиан. Словарь гимнологии
+- Христианский Творческий Союз
