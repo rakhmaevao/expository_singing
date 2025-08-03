@@ -1,24 +1,20 @@
 {
   "main": {
-    "id": "142c77ba8a904b60",
+    "id": "8047f4422efde1e0",
     "type": "split",
     "children": [
       {
-        "id": "20a4eaa74c7c0f2a",
+        "id": "d692b25274212283",
         "type": "tabs",
         "children": [
           {
-            "id": "62ae4eda1a9f9753",
+            "id": "e475f3c354486154",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Вести ангельской.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Вести ангельской"
+              "title": "New tab"
             }
           }
         ]
@@ -27,32 +23,33 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "9def7b9ed3238ee6",
+    "id": "b35248649cf5c003",
     "type": "split",
     "children": [
       {
-        "id": "b099ee562271ebd2",
+        "id": "18ad7b06df454fcb",
         "type": "tabs",
         "children": [
           {
-            "id": "836a35f930ab876d",
+            "id": "eb2da1d0ba2fb2d2",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical"
+                "sortOrder": "alphabetical",
+                "autoReveal": false
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
             }
           },
           {
-            "id": "07a21c6b97bdd7b7",
+            "id": "2498c5b1f9b292d6",
             "type": "leaf",
             "state": {
               "type": "search",
               "state": {
-                "query": "Сиян",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -64,7 +61,7 @@
             }
           },
           {
-            "id": "9fbcfbaeb86ba7b0",
+            "id": "581522bbe8f8dbb0",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -73,28 +70,26 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
     "width": 300
   },
   "right": {
-    "id": "22a23cfc493b00c1",
+    "id": "4d37c39358be319d",
     "type": "split",
     "children": [
       {
-        "id": "da5ca1f3c3f5bdc6",
+        "id": "643074355b7970ec",
         "type": "tabs",
         "children": [
           {
-            "id": "b75398629874ec3b",
+            "id": "7664fedb8339adca",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Вести ангельской.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,53 +99,57 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Вести ангельской"
+              "title": "Backlinks"
             }
           },
           {
-            "id": "188b7cf769de10eb",
+            "id": "bef3941d25f5a487",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Славь, душа, Господа.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Славь, душа, Господа"
+              "title": "Outgoing links"
             }
           },
           {
-            "id": "17eda61d41b6efec",
+            "id": "22ebfa6453745d3c",
             "type": "leaf",
             "state": {
               "type": "tag",
               "state": {
                 "sortOrder": "frequency",
-                "useHierarchy": true
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-tags",
               "title": "Tags"
             }
           },
           {
-            "id": "dfb08da7c90fa376",
+            "id": "d57aee83b9d3a3ec",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "Славь, душа, Господа.md"
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Славь, душа, Господа"
+              "title": "Outline"
             }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -162,35 +161,6 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "62ae4eda1a9f9753",
-  "lastOpenFiles": [
-    "Старый крест.md",
-    "Вести ангельской.md",
-    "Филкс Мендельсон.md",
-    "Чарльз Уэсли.md",
-    "Построил на крови Христа.md",
-    "В сиянии Царя.md",
-    "Придите и прославьте все.md",
-    "README.md",
-    "Придите все к воскресшему.md",
-    "Господь - Скала, мой Искупитель.md",
-    "Глубока подобно морю copy.md",
-    "Я в мрачной тьме.md",
-    "Воспрянь моя душа.md",
-    "Там где Один пострадал.md",
-    "Дивный Спаситель.md",
-    "Братья, все ликуйте славный день настал!.md",
-    "Ангелов к нам Весть дошла.md",
-    "Вечный Бог, Творец небес copy.md",
-    "На Нём.md",
-    "Вечный Бог, Творец небес.md",
-    "Господня вся земля.md",
-    "Великий Бог! Когда на мир смотрю я.md",
-    "Глубока подобно морю.md",
-    "Всего себя, всю жизнь мою.md",
-    "В Христе одном.md",
-    "Великий Бог, Царь вечности.md",
-    "Untitled.canvas",
-    "Даниил Александрович Ясько"
-  ]
+  "active": "e475f3c354486154",
+  "lastOpenFiles": []
 }

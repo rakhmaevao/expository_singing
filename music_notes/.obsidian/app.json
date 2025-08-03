@@ -4,5 +4,6 @@
   "foldIndent": true,
   "showInlineTitle": false,
   "alwaysUpdateLinks": true,
-  "promptDelete": false
+  "promptDelete": false,
+  "spellcheck": true
 }
