@@ -15,7 +15,7 @@
               "state": {
                 "file": "Вести ангельской.md",
                 "mode": "source",
-                "source": false
+                "source": true
               },
               "icon": "lucide-file",
               "title": "Вести ангельской"
