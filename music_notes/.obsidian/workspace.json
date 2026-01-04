@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "20a4eaa74c7c0f2a",
+        "id": "43ee48ac13c84e14",
         "type": "tabs",
         "children": [
           {
-            "id": "62ae4eda1a9f9753",
+            "id": "b8fb34249a7f91c0",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Вести ангельской.md",
+                "file": "Я жив надеждой.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Вести ангельской"
+              "title": "Я жив надеждой"
             }
           }
         ]
@@ -40,7 +40,8 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical"
+                "sortOrder": "alphabetical",
+                "autoReveal": false
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
@@ -52,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Сиян",
+                "query": "надеждой",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -94,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Вести ангельской.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +105,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Вести ангельской"
+              "title": "Backlinks for README"
             }
           },
           {
@@ -150,10 +151,12 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
+      "bases:Create new base": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -162,17 +165,21 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "62ae4eda1a9f9753",
+  "active": "b8fb34249a7f91c0",
   "lastOpenFiles": [
-    "Старый крест.md",
+    "Придите все к воскресшему.md",
+    "Кто моря все горстью исчерпал?.md",
+    "Я значим не самим собой.md",
+    "Нa нeбecax Xoдaтaй мoй.md",
+    "Дух Святой, Дух благодати.md",
+    "README.md",
     "Вести ангельской.md",
+    "Старый крест.md",
     "Филкс Мендельсон.md",
     "Чарльз Уэсли.md",
     "Построил на крови Христа.md",
     "В сиянии Царя.md",
     "Придите и прославьте все.md",
-    "README.md",
-    "Придите все к воскресшему.md",
     "Господь - Скала, мой Искупитель.md",
     "Глубока подобно морю copy.md",
     "Я в мрачной тьме.md",
@@ -186,10 +193,6 @@
     "Вечный Бог, Творец небес.md",
     "Господня вся земля.md",
     "Великий Бог! Когда на мир смотрю я.md",
-    "Глубока подобно морю.md",
-    "Всего себя, всю жизнь мою.md",
-    "В Христе одном.md",
-    "Великий Бог, Царь вечности.md",
     "Untitled.canvas",
     "Даниил Александрович Ясько"
   ]
